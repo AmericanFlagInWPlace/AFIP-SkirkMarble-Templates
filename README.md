@@ -9,7 +9,7 @@ https://www.tampermonkey.net/
 Click here to download the script https://github.com/Seris0/Wplace-SkirkMarble/releases/download/latest/SkirkMarble.user.js
 
 ## Step Three: Download json templates
-[AFIP-ALL](https://github.com/AmericanFlagInWPlace/AFIP-SkirkMarble-Templates/blob/main/AFIP-ALL.json) contains all of our current templates. Or, you can download each individually via their separate files.
+[AFIP-ALL](https://github.com/AmericanFlagInWPlace/AFIP-SkirkMarble-Templates/blob/main/templates/AFIP-ALL.json) contains all of our current templates. Or, you can download each individually via their separate files in the [templates](https://github.com/AmericanFlagInWPlace/AFIP-SkirkMarble-Templates/blob/main/templates) folder.
 
 ## Step Four: Install the templates
 Navigate to https://wplace.live. At the bottom of the Skirk Marble window, click the "Import Templates" button.

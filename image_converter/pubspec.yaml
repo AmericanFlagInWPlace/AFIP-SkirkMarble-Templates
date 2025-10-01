@@ -1,0 +1,9 @@
+name: skirk_marble_image_converter
+description: A tool to automatically generate Skirk Marble json files from a given image
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  image: ^4.0.17

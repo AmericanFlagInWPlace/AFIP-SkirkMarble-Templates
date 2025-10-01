@@ -1,4 +1,4 @@
-# Installation Guide
+# Template Installation Guide
 
 ## Step One: Install Tampermonkey
 https://www.tampermonkey.net/
@@ -20,3 +20,11 @@ Navigate to https://wplace.live. At the bottom of the Skirk Marble window, click
 Note: Importing always creates new templates, and will not overwrite previous versions. You may want to delete your old templates before importing to prevent duplicates.
 
 <img height="600" alt="image" src="https://github.com/user-attachments/assets/b07bafd3-a254-47b2-924e-a180456da948" />
+
+# Image Converter Usage
+
+## Step One: Run image_converter.exe once to generate the input folder.
+
+## Step Two: Place PNGs in the folder 'input/pngs' folder and run the exe again.
+
+## Step Three: Processed templates and PNGs will be in the 'output' folder, ready to add to Skirk Marble

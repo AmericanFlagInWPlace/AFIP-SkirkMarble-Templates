@@ -26,5 +26,6 @@ Note: Importing always creates new templates, and will not overwrite previous ve
 ## Step One: Run image_converter.exe once to generate the input folder.
 
 ## Step Two: Place PNGs in the folder 'input/pngs' folder and run the exe again.
+Make sure files are named in the following format `name-tileX-tileY-pixelX-pixelY.png` e.g. `Kansas-452-776-75-731.png`.
 
 ## Step Three: Processed templates and PNGs will be in the 'output' folder, ready to add to Skirk Marble

@@ -6,7 +6,7 @@ https://www.tampermonkey.net/
 ## Step Two: Install Skirk Marble
 [Skrik Marble](https://github.com/Seris0/Wplace-SkirkMarble) is a fork of [Blue Marble](https://bluemarble.lol/) with extra features, including multi template support.
 
-Click here to download the script https://github.com/Seris0/Wplace-SkirkMarble/releases/download/latest/SkirkMarble.user.js
+Click here to download the script https://github.com/Seris0/Wplace-SkirkMarble/releases/latest/download/SkirkMarble.user.js
 
 ## Step Three: Download json templates
 [ALL.json](https://github.com/AmericanFlagInWPlace/AFIP-SkirkMarble-Templates/blob/main/output/templates/ALL.json) contains all of our current templates.

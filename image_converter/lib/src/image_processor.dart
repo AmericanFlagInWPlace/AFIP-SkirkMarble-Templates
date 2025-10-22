@@ -68,7 +68,8 @@ Future<Map<String, dynamic>?> _processImage(
       backgroundColor: ColorRgba8(0, 0, 0, 0));
   for (final pixel in image) {
     if (pixel.r == 222 && pixel.g == 250 && pixel.b == 206) {
-      // Color is #deface, skip
+      pixel.setRgba(222, 250, 206, 255);
+      fullColorMatchedImage.setPixel(pixel.x, pixel.y, pixel);
       continue;
     }
     if (pixel.a > 0) {
